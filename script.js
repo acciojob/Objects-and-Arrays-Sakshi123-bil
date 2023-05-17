@@ -7,7 +7,7 @@ const person = {
 };
 
 const team = players;
-const teamp1 = copy.copy(players);
+const team1 = copy.copy(players);
 const cap1 = copy.deepcopy(person);
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
